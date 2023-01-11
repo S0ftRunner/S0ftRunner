@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S0ftRunner
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning C/C++, Python, NASM, Java, WEB programming and networks.
+- 👀 I’m interested in Android Developing
+- 🌱 I’m currently learning C/C++, Python, NASM, Java, Kotlin, Compose.
 - 📫 How to reach me TG: SoftRunner
 
 <!---
