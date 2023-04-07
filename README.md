@@ -1,9 +1,9 @@
 # S0ftRunner
 ![S0ftRunner](https://sun9-66.userapi.com/impg/s3oxyC0BKscyoN1f41CQKX0eYHjIcebvaR5RhA/oYa3duy3AbU.jpg?size=2560x800&quality=96&sign=62bcf274bda168c0e77a9bcaee2069ef&type=album)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm wedlec</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm S0ftRunner</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm wedlec-->
+<!-- ## 👋 &nbsp;Hey there! I'm S0ftRunner-->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -40,9 +40,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Wedlec129">
+<a href="https://github.com/S0ftRunner">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=S0ftRunner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wedlec129&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=S0ftRunner&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
