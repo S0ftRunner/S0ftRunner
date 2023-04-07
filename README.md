@@ -1,5 +1,5 @@
 # S0ftRunner
-![S0ftRunner](https://sun9-66.userapi.com/impg/s3oxyC0BKscyoN1f41CQKX0eYHjIcebvaR5RhA/oYa3duy3AbU.jpg?size=2560x800&quality=96&sign=62bcf274bda168c0e77a9bcaee2069ef&type=album)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm S0ftRunner</h2>
 
