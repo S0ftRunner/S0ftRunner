@@ -1,5 +1,4 @@
 # S0ftRunner
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-Stack+dev)](https://git.io/typing-svg)
 
 <!-- 👋 &nbsp;Hey there! I'm S0ftRunner-->
 
