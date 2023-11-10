@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-https://img.shields.io/badge/React.js-language?logo=React&labelColor=black&color=black
+![React](https://img.shields.io/badge/React.js-language?logo=React&labelColor=black&color=black)&nbsp;
 
 
 
