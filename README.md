@@ -8,7 +8,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I am currently studying computer science and mathematics at RTU MIREA.\
-🌱 &nbsp;I'm going to learn more about backend developing, systems engineering and cloud architecture.\
+🌱 &nbsp;I'm going to learn more about backend and frontend developing, systems engineering and cloud architecture.\
 ✍️ &nbsp;In my free time, I'm reading books about programming.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can write me an email at vieniamin.sokolov@mail.ru I will try to answer as soon as I can.\
