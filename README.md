@@ -1,18 +1,17 @@
 # S0ftRunner
 
-<!-- 👋 &nbsp;Hey there! I'm S0ftRunner-->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-Stack+dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Security+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I am currently studying computer science and mathematics at RTU MIREA.\
-🌱 &nbsp;I'm going to learn more about backend and frontend developing, systems engineering and cloud architecture.\
-✍️ &nbsp;In my free time, I'm reading books about programming.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can write me an email at vieniamin.sokolov@mail.ru I will try to answer as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/S0ftRunner) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;Graduated in **Computer Security** from RTU MIREA.\
+💼 &nbsp;**3+ years of professional experience** in software development.\
+🌱 &nbsp;Currently deepening my knowledge in backend/frontend development, systems engineering, and cloud architecture.\
+✍️ &nbsp;In my free time, I read programming books and stay up-to-date with security trends.\
+💬 &nbsp;Feel free to reach out for consulting, volunteering, or just an interesting discussion.\
+✉️ &nbsp;Email me at **vieniamin.sokolov@mail.ru** — I'll respond as soon as I can.\
+📄 &nbsp;Check out my [Résumé](https://github.com/S0ftRunner) for more details. Open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -20,23 +19,22 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![React](https://img.shields.io/badge/React.js-language?logo=React&labelColor=black&color=black)&nbsp;
-
-
-
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -47,5 +45,8 @@
 </a>
 </p>
 
-
 ### 🤝🏻 &nbsp;Connect with Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/softrunner)
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:vieniamin.sokolov@mail.ru)
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/S0ftRunner)
