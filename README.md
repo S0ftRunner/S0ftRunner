@@ -37,7 +37,7 @@ class S0ftRunner:
     def daily_motto(self):
         return "Code securely, think creatively 🚀"
 ```
-💡  I like to explore new technologies and develop software solutions and quick hacks.
+<p>💡  I like to explore new technologies and develop software solutions and quick hacks.</p>
 🎓  ✅ Graduated in Computer Security from RTU MIREA.
 💼  📅 3+ years of professional experience in software development.
 🔒  Security is not just my degree — it's my mindset.
