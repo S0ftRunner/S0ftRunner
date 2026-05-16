@@ -1,6 +1,6 @@
 # 💻 S0ftRunner
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/S71QdJpYCLXjq/giphy.gif" width="300">
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Security+Specialist;3%2B+Years+of+Experience;Code+%26+Security+Enthusiast)](https://git.io/typing-svg)
