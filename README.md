@@ -1,50 +1,63 @@
-# S0ftRunner
+# 💻 S0ftRunner
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Security+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Security+Specialist;3%2B+Years+of+Experience;Code+%26+Security+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=S0ftRunner&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/S0ftRunner?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-4CAF50?style=flat&logo=linkedin" alt="open to work" />
+</p>
+
+---
+
+### 🔥 &nbsp;Quick Facts
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=⚡+3%2B+Years+of+Coding;🔒+Security+First+Mindset;🚀+Always+Learning;💡+Problem+Solver" alt="quick facts" />
+</p>
+
+---
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;Graduated in **Computer Security** from RTU MIREA.\
-💼 &nbsp;**3+ years of professional experience** in software development.\
-🌱 &nbsp;Currently deepening my knowledge in backend/frontend development, systems engineering, and cloud architecture.\
-✍️ &nbsp;In my free time, I read programming books and stay up-to-date with security trends.\
-💬 &nbsp;Feel free to reach out for consulting, volunteering, or just an interesting discussion.\
-✉️ &nbsp;Email me at **vieniamin.sokolov@mail.ru** — I'll respond as soon as I can.\
-📄 &nbsp;Check out my [Résumé](https://github.com/S0ftRunner) for more details. Open to feedback and suggestions!
+```python
+class S0ftRunner:
+    def __init__(self):
+        self.name = "Vieniamin Sokolov"
+        self.role = "Full-Stack Developer & Security Specialist"
+        self.experience = "3+ years"
+        self.education = "Computer Security Graduate @ RTU MIREA"
+        self.location = "🌍 Russia"
+        self.hobbies = ["📚 Reading", "🔐 Security research", "💻 Open source"]
+    
+    def daily_motto(self):
+        return "Code securely, think creatively 🚀"
+```
+💡  I like to explore new technologies and develop software solutions and quick hacks.
+🎓  ✅ Graduated in Computer Security from RTU MIREA.
+💼  📅 3+ years of professional experience in software development.
+🔒  Security is not just my degree — it's my mindset.
+🌱  Currently deepening my knowledge in backend/frontend development, systems engineering, and cloud architecture.
+✍️  In my free time, I read programming books and stay up-to-date with security trends.
+💬  Feel free to reach out for consulting, volunteering, or just an interesting discussion.
+✉️  Email me at vieniamin.sokolov@mail.ru — I'll respond as soon as I can.
+📄  Check out my Résumé for more details.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,react,nodejs,express,django,html,css,git,docker,postgres,redis,linux,vscode&perline=8" /> </p>
+<p align="center"> <a href="https://github.com/S0ftRunner"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S0ftRunner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0ftRunner&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/> </a> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=S0ftRunner&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=S0ftRunner&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
 
-### 🛠 &nbsp;Tech Stack
+🤝🏻  Connect with Me
+<p align="center"> <a href="https://t.me/softrunner"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="mailto:vieniamin.sokolov@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/S0ftRunner"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/S0ftRunner">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=S0ftRunner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=S0ftRunner&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/softrunner)
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:vieniamin.sokolov@mail.ru)
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/S0ftRunner)
+<!-- 
+  ███████╗ ██████╗ ███████╗████████╗██████╗ ██╗   ██╗███╗   ██╗███╗   ██╗███████╗██████╗ 
+  ██╔════╝██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗██║   ██║████╗  ██║████╗  ██║██╔════╝██╔══██╗
+  ███████╗██║   ██║█████╗     ██║   ██████╔╝██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝
+  ╚════██║██║   ██║██╔══╝     ██║   ██╔══██╗██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗
+  ███████║╚██████╔╝██║        ██║   ██║  ██║╚██████╔╝██║ ╚████║██║ ╚████║███████╗██║  ██║
+  ╚══════╝ ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+-->
