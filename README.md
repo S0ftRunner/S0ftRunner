@@ -45,7 +45,7 @@ class S0ftRunner:
 <p>💬  Feel free to reach out for consulting, volunteering, or just an interesting discussion.</p>
 <p>✉️  Email me at benjamin.sokolov19@gmail.com — I'll respond as soon as I can.</p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,react,nodejs,express,django,html,css,git,docker,postgres,redis,linux,vscode&perline=8" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,nodejs,express,django,html,css,git,docker,postgres,redis,nest,nginx" /> </p>
 <p align="center"> <a href="https://github.com/S0ftRunner"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S0ftRunner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0ftRunner&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/> </a> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=S0ftRunner&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=S0ftRunner&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
 
 🤝🏻  Connect with Me
