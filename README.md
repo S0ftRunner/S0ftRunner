@@ -1,6 +1,6 @@
 # 💻 S0ftRunner
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx4MWVndHJuMmJ1MmRtNDBsZ3o1Nnp5b2I4aXplOXRpeGhoMWoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V5OXl2aXVxcjhtN2JhYnVvNHF6a2xjcGswemRrbzZqeWN0OTk4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300">
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Security+Specialist;3%2B+Years+of+Experience;Code+%26+Security+Enthusiast)](https://git.io/typing-svg)
